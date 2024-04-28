@@ -1,6 +1,5 @@
 shiny
 pandas
 numpy
-matplotlib
 seaborn
 openpyxl
